@@ -1,2 +1,1 @@
-# Aspose.PUB-for-C
-Aspose.PUB for C++ Examples
+## Aspose.PUB for C++ - Coming Soon
