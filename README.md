@@ -1,1 +1,0 @@
-## Aspose.PUB for C++ - Coming Soon
