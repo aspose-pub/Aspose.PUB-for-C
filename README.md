@@ -1,12 +1,12 @@
 ## Aspose.PUB for C++
 
-[Aspose.PUB for C++](https://https://products.aspose.com/pub/cpp) is a native library for working with Microsoft Publication PUB files. This C++ API lets you read .pub files and caonvert them into PDF which is an platform-independent document format. It can also be used to edit the metadata of the .pub files and save these as PDF for use by Content Management Systems (CMS).
+[Aspose.PUB for C++](https://products.aspose.com/pub/cpp) is a native library for working with Microsoft Publication PUB files. This C++ API lets you read .pub files and caonvert them into PDF which is an platform-independent document format. It can also be used to edit the metadata of the .pub files and save these as PDF for use by Content Management Systems (CMS).
 
 
-This repository contains [Examples](Examples) for [Aspose.PUB for C++](https://https://products.aspose.com/pub/cpp) to help you learn and write your own applications.
+This repository contains [Examples](Examples) for [Aspose.PUB for C++](https://products.aspose.com/pub/cpp) to help you learn and write your own applications.
 
 <p align="center">
-  <a title="Download ZIP" href="https://github.com/aspose-page/Aspose.Pub-for-c/archive/master.zip">
+  <a title="Download ZIP" href="https://github.com/aspose-pub/Aspose.Pub-for-c/archive/master.zip">
     <img src="http://i.imgur.com/hwNhrGZ.png" />
   </a>
 </p>
