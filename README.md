@@ -1,3 +1,4 @@
+![Nuget](https://img.shields.io/nuget/v/Aspose.pub.Cpp) ![Nuget](https://img.shields.io/nuget/dt/Aspose.pub.Cpp) ![GitHub](https://img.shields.io/github/license/aspose-pub/Aspose.pub-for-C)
 # Process PUB files via C++
 
 [Aspose.PUB for C++](https://products.aspose.com/pub/cpp) is a simple API that allows to read & convert Microsoft Publisher® (PUB) files to PDF format programmatically in your C++ Apps. It also provides easy to understand interfaces to edit metadata of PUB files.
