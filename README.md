@@ -50,4 +50,4 @@ System::SharedPtr<Document> document = parser->Parse();
 PubFactory::CreatePdfConverter()->ConvertToPdf(document, filePdf);
 ```
 
-[Home](https://www.aspose.com/) | [Product Page](https://products.aspose.com/pub/cpp) | [Docs](https://docs.aspose.com/pub/cpp/) | [API Reference](https://apireference.aspose.com/pub/cpp) | [Examples](https://github.com/aspose-pub/Aspose.PUB-for-C) | [Blog](https://blog.aspose.com/category/pub/) | [Free Support](https://forum.aspose.com/c/pub) | [Temporary License](https://purchase.aspose.com/temporary-license)
+[Home](https://www.aspose.com/) | [Product Page](https://products.aspose.com/pub/cpp) | [Docs](https://docs.aspose.com/pub/cpp/) | [API Reference](https://apireference.aspose.com/pub/cpp) | [Examples](https://github.com/aspose-pub/Aspose.PUB-for-C) | [Blog](https://blog.aspose.com/category/pub/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pub) | [Temporary License](https://purchase.aspose.com/temporary-license)
